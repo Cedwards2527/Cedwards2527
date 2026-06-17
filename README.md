@@ -12,12 +12,17 @@ I enjoy building responsive web applications with React and JavaScript, turning 
 
 I'm always looking for opportunities to learn, improve my skills, and create applications that people genuinely enjoy using.</p>
                                       
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/charles-edwards-b66854133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charles-edwards-b66854133" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/wtf.png" width="700">
 </p>
+
+<p align="center">
+  <a href="LIVE">Live</a> • <a href="REPO">Code</a>
+</p>
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -44,6 +49,10 @@ I'm always looking for opportunities to learn, improve my skills, and create app
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedwards2527&show_icons=true&locale=en&layout=compact" alt="cedwards2527" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/charles-edwards-b66854133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charles-edwards-b66854133" height="30" width="40" /></a>
+</p>
 
