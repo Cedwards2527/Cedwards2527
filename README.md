@@ -29,7 +29,7 @@ Movie discovery app built with React and external APIs.
 ---
 
 <p align="center">
-  <img src="./assets/weather.png" width="700" alt="What To Wear">
+  <img src="https://github.com/Cedwards2527/Cedwards2527/blob/main/WTWR_screenshot.png" width="700" alt="What To Wear">
 </p>
 
 <h3 align="center">🌦️ What To Wear</h3>
@@ -41,7 +41,6 @@ Weather-based clothing recommendation app built with React and API integration.
 </p>
 
 <p align="center">
-<a href="https://cedwards-wtwr.sundby.com">🌐 Live Demo</a> •
 <a href="https://github.com/Cedwards2527/se_project_react">💻 Frontend Repo</a> •
 <a href="https://github.com/Cedwards2527/se_project_express">🛠️ Backend Repo</a>
 </p>
