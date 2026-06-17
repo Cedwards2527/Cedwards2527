@@ -6,18 +6,20 @@
 I enjoy building responsive web applications with React and JavaScript, turning ideas into functional, user-friendly interfaces, and continuously improving my skills as a developer.
 
 
-<h2 align="center">A Little About Me</h2
+<h2 align="center">A Little About Me</h2>
 
 <p>When I'm not coding, I'm usually camping, watching movies, exploring movie trivia, or listening to classic hip-hop. I'm a longtime fan of Golden Era hip-hop and '90s R&B, and I enjoy building projects that combine my interests with technology.
 
 I'm always looking for opportunities to learn, improve my skills, and create applications that people genuinely enjoy using.</p>
+
+<h2 align="center">My Projects</h2>
                                       
 <p align="center">
-  <img src="./assets/wtf.png" width="700">
+  <img src="https://raw.githubusercontent.com/Cedwards2527/Cedwards2527/877cec4478667e91e451dc2c47b7cbfa55a8bf26/wtf%20Screenshot%20.png" width="700">
 </p>
 
 <p align="center">
-  <a href="LIVE">Live</a> • <a href="REPO">Code</a>
+  <a href="https://cedwards2527.github.io/wtf-am-i-watching/">Live</a> • <a href="https://github.com/Cedwards2527/wtf-am-i-watching">Code</a>
 </p>
 
 
