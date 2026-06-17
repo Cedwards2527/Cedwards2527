@@ -13,18 +13,19 @@ I enjoy building responsive web applications with React and JavaScript, turning 
 I'm always looking for opportunities to learn, improve my skills, and create applications that people genuinely enjoy using.</p>
 
 <h2 align="center">🚀 Featured Projects</h2>
-                                      
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cedwards2527/Cedwards2527/877cec4478667e91e451dc2c47b7cbfa55a8bf26/wtf%20Screenshot%20.png" width="700">
+  <img src="https://raw.githubusercontent.com/Cedwards2527/Cedwards2527/877cec4478667e91e451dc2c47b7cbfa55a8bf26/wtf%20Screenshot%20.png" width="700" alt="WTF Am I Watching">
 </p>
+
 <h3 align="center">🎬 WTF Am I Watching?</h3>
 <p align="center">
 Movie discovery app built with React and external APIs.
 </p>
 <p align="center">
-<p align="center">
-  <a href="https://cedwards2527.github.io/wtf-am-i-watching/">Live</a> • <a href="https://github.com/Cedwards2527/wtf-am-i-watching">Code</a>
+<a href="https://cedwards2527.github.io/wtf-am-i-watching/">Live Demo</a> • <a href="https://github.com/Cedwards2527/wtf-am-i-watching">Repository</a>
 </p>
+
 ---
 
 <p align="center">
