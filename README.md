@@ -35,9 +35,15 @@ Movie discovery app built with React and external APIs.
 <h3 align="center">🌦️ What To Wear</h3>
 <p align="center">
 Weather-based clothing recommendation app built with React and API integration.
-</p>
 <p align="center">
-<a href="#">Live Demo</a> • <a href="#">Repository</a>
+<b>Frontend:</b> React application for UI and user interaction<br/>
+<b>Backend:</b> Node.js/Express API handling weather logic and responses
+</p>
+
+<p align="center">
+<a href="https://cedwards-wtwr.sundby.com">🌐 Live Demo</a> •
+<a href="https://github.com/Cedwards2527/se_project_react">💻 Frontend Repo</a> •
+<a href="https://github.com/Cedwards2527/se_project_express">🛠️ Backend Repo</a>
 </p>
 
 
