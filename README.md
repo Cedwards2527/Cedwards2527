@@ -41,8 +41,9 @@ Weather-based clothing recommendation app built with React and API integration.
 </p>
 
 <p align="center">
+  <a href="https://cedwards-wtwr.netlify.app/">Live Demo</a> •
 <a href="https://github.com/Cedwards2527/se_project_react">💻 Frontend Repo</a> •
-<a href="https://github.com/Cedwards2527/se_project_express">🛠️ Backend Repo</a>
+<a href="https://wtwr-backend-8zq1.onrender.com">🛠️ Backend Repo</a>
 </p>
 
 
